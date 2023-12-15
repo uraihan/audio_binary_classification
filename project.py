@@ -163,7 +163,7 @@ print("Accuracy:", accuracy_cnn)
 print("Precision:", precision_cnn)
 print("Recall:", recall_cnn)
 
-print("Testing with audio number 10 from test data (0 means car, 1 means tram)")
+print("\nTesting with audio number 10 from test data (0 means car, 1 means tram)")
 print("Real label: ", labels_test[9])
 
 print("KNN Prediction")
